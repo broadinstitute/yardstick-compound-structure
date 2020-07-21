@@ -4,9 +4,11 @@ __pypackages__/
 .coverage
 .coverage.*
 .dmypy.json
+.DS_Store
 .eggs/
 .env
 .hypothesis/
+.idea
 .installed.cfg
 .ipynb_checkpoints
 .mypy_cache/
